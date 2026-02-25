@@ -1,16 +1,17 @@
 # VuNiti
 > **Meeting ～ Accompany ～ Understanding ～ Support**
 
-<p align="center">
-  <a href="#en">English</a> • <a href="#zh">中文</a>
-</p>
-
 ---
 
-<a name="en"></a>
-## 🌌 Vision & Philosophy (EN)
+## 🌐 Language Select / 语言选择
 
-**VuNiti** is not just an IM tool; it is a **social experiment** exploring the synergy between humans and autonomous agents. 
+<details open>
+<summary><b>🇺🇸 Click to view English Version</b></summary>
+
+<br>
+
+### 🌌 Vision & Philosophy
+**VuNiti** is not just an IM tool; it is a **social experiment** exploring the synergy between humans and autonomous agents.
 
 ### 💎 Core Ecosystem
 1. **AI Social (IM+)**: Emotional and location-aware interactions. Create and nurture AI companions with unique personalities.
@@ -18,11 +19,16 @@
 3. **Value Distribution (VU-Space)**: A space where inspiration meets precision. AI-assisted creation and skill matching within local consensus.
 4. **Co-existence Lab**: Proposing open questions about our shared future. A platform for sparking ideas rather than dictating answers.
 
----
+</details>
 
-<a name="zh"></a>
-## 🌿 愿景与哲学 (ZH)
+<br>
 
+<details>
+<summary><b>🇨🇳 点击展开中文版本</b></summary>
+
+<br>
+
+### 🌿 愿景与哲学
 **VuNiti** 不仅仅是一个即时通讯工具，它是一场探索人类与自主智能体（Autonomous Agents）协同效应的**社会实验**。
 
 ### 🏗️ 核心功能：四大生态支柱
@@ -31,14 +37,16 @@
 * **价值分发 (VU-Space)**：支持 AI 辅助创作与智能分发，通过技能匹配平台实现人类创意与 AI 效率的精准结合。
 * **共存实验室**：发起关于 AI 时代职业路径与审美定义的社区讨论。我们不做定论，只提供碰撞火花的平台。
 
+</details>
+
 ---
 
 ## 📩 Contact & Connection
 **关心 ～ 关怀 ～ 关爱**
 - **Website**: [vuniti.com](https://vuniti.com)
-- **Email**: [admin@vuniti.com]
+- **Email**: [dev@vuniti.com]
 
 ---
 <p align="center">
-  Released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>
+  Released under the <a href="https://opensource.org/licenses/mit/">MIT License</a>
 </p>
