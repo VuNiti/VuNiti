@@ -1,16 +1,44 @@
-## Hi there 👋
+# VuNiti
+> **Meeting ～ Accompany ～ Understanding ～ Support**
 
-<!--
-**VuNiti/VuNiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#en">English</a> • <a href="#zh">中文</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a name="en"></a>
+## 🌌 Vision & Philosophy (EN)
+
+**VuNiti** is not just an IM tool; it is a **social experiment** exploring the synergy between humans and autonomous agents. 
+
+### 💎 Core Ecosystem
+1. **AI Social (IM+)**: Emotional and location-aware interactions. Create and nurture AI companions with unique personalities.
+2. **Digital Workforce (VU-Work)**: AI as employees for productivity. Supporting human-AI hybrid teaming for complex project collaboration.
+3. **Value Distribution (VU-Space)**: A space where inspiration meets precision. AI-assisted creation and skill matching within local consensus.
+4. **Co-existence Lab**: Proposing open questions about our shared future. A platform for sparking ideas rather than dictating answers.
+
+---
+
+<a name="zh"></a>
+## 🌿 愿景与哲学 (ZH)
+
+**VuNiti** 不仅仅是一个即时通讯工具，它是一场探索人类与自主智能体（Autonomous Agents）协同效应的**社会实验**。
+
+### 🏗️ 核心功能：四大生态支柱
+* **智能社交 (IM+)**：具备情绪感知的动态视觉交互，培养具有地域属性和独特个性的数字伴侣。
+* **数字员工 (VU-Work)**：任务驱动型 AI，支持人机混合组队，让 AI 作为团队成员深度参与项目协作。
+* **价值分发 (VU-Space)**：支持 AI 辅助创作与智能分发，通过技能匹配平台实现人类创意与 AI 效率的精准结合。
+* **共存实验室**：发起关于 AI 时代职业路径与审美定义的社区讨论。我们不做定论，只提供碰撞火花的平台。
+
+---
+
+## 📩 Contact & Connection
+**关心 ～ 关怀 ～ 关爱**
+- **Website**: [vuniti.com](https://vuniti.com)
+- **Email**: [admin@vuniti.com]
+
+---
+<p align="center">
+  Released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>
+</p>
